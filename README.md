@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daviribeirojs
+- 👋 Hi, I’m @daviotavio
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning CSS3, HTML5 and JavaScript
 - 💞️ I’m looking to collaborate on everything within my reach
