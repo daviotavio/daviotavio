@@ -1,8 +1,10 @@
 
-
-  # 👋  Hi there!
-  
-### My name is Davi Otávio! I'm a BI Analyst
+<div align="center">
+<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
+<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
+</div>  
+ 
+ # <div align="center">My name is Davi Otávio! I'm a BI Analyst and sofware developer</div>
 
 - 🏡 Brazilian, Based in Brasília, DF
 - 💻 BI Analyst at **[CONASEMS](https://portal.conasems.org.br/)**
@@ -11,8 +13,8 @@
 
 <div>
   <a href="https://github.com/daviotavio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviotavio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviotavio&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviotavio&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviotavio&layout=compact&langs_count=7"/>
 </div>
 
 <br />
