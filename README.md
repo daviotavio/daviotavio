@@ -9,10 +9,10 @@
 - 🎒 Systems analysis and development student 
 - 📝 [Resume](https://drive.google.com/drive/folders/1-JijfavfD3upKtlt27pb5D6wDd-HQLB9?usp=share_link)
 
-<div align="center">
+<div>
   <a href="https://github.com/daviotavio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviotavio&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviotavio&layout=compact&langs_count=7&theme=yeblu"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviotavio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviotavio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <br />
